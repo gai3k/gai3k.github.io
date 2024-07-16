@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# Bhat Lab Website Template
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+[Bhat Lab](https://github.com/greenelab/lab-website-template) uses a multipronged approach to explain the genetic, molecular and immunological basis of glioblastoma (GBM), a malignant brain cancer that is incurable.[Glioblastoma](https://www.greenelab.com/](https://www.mayoclinic.org/diseases-conditions/glioblastoma/symptoms-causes/syc-20569077).
 
 {%
   include button.html
@@ -24,8 +23,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Dr. Bhat's long-term goal is to understand GBM at the molecular and cellular levels. He uses state-of-the-art technologies and applies resulting knowledge to develop new therapeutic strategies and biomarkers for individuals with brain cancer.
 {%
   include button.html
   link="research"
@@ -47,7 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Radiation resistance in glioma stemlike cells (GSCs).
+- Interaction of myeloid cells, cancer cells and the central nervous system
+- Developing liquid biopsies for brain cancer
 
 {%
   include button.html
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have a multi-disciplinary team with bench scientists, immunologists, cancer biologists and bioinformaticians working in close collaboration.
 
 {%
   include button.html
