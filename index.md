@@ -3,7 +3,7 @@
 
 # Bhat Lab Website Template
 
-[Bhat Lab](https://github.com/greenelab/lab-website-template) uses a multipronged approach to explain the genetic, molecular and immunological basis of glioblastoma (GBM), a malignant brain cancer that is incurable.[Glioblastoma](https://www.greenelab.com/](https://www.mayoclinic.org/diseases-conditions/glioblastoma/symptoms-causes/syc-20569077).
+[Bhat Lab](https://github.com/greenelab/lab-website-template) uses a multipronged approach to explain the genetic, molecular and immunological basis of glioblastoma (GBM), a malignant brain cancer that is incurable.[Glioblastoma](https://www.mayoclinic.org/diseases-conditions/glioblastoma/symptoms-causes/syc-20569077)
 
 {%
   include button.html
