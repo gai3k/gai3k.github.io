@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Bhat Lab Website Template
-subtitle: Courtesy Greene Lab
+subtitle: Template Greene Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: bhat.krishna@mayo.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
