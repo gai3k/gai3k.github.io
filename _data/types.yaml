@@ -9,6 +9,10 @@ principal-investigator:
 Postdoctoral fellow:
   icon: fa-solid fa-glasses
   description: Postdoctoral fellow
+  
+PhD:
+  icon: fa-solid fa-glasses
+  description: PhD student
 
 MD-PhD:
   icon: fa-solid fa-graduation-cap
