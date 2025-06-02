@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We have been able to profile the myeloid cell population in the GBM primary and recurrent patients. We have been able to identify myeloid cell types and functional states in the GBM patients indicating the cell population that can be targeted for treatment.
+We are able to profile the myeloid cell population in the GBM primary and recurrent patients. We have been able to identify myeloid cell types and functional states in the GBM patients indicating the cell population that can be targeted for treatment.
 
 {% include section.html %}
 
