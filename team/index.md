@@ -14,7 +14,7 @@ We are able to profile the myeloid cell population in the GBM primary and recurr
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background_mayo.jpg" dark=true %}
+{% include section.html %}
 
 We want to expand our team of multi-disciplinary researchers dedicated to improving patient care and GBM treatment outcomes!
 
