@@ -106,23 +106,23 @@ bluesky:
   tooltip: Bluesky
   link: https://bsky.app/profile/$VALUE
 
-facebook:
-  icon: fa-brands fa-facebook
-  text: Facebook
-  tooltip: Facebook
-  link: https://facebook.com/$VALUE
+# facebook:
+#   icon: fa-brands fa-facebook
+#   text: Facebook
+#   tooltip: Facebook
+#   link: https://facebook.com/$VALUE
 
-instagram:
-  icon: fa-brands fa-instagram
-  text: Instagram
-  tooltip: Instagram
-  link: https://instagram.com/$VALUE
+# instagram:
+#   icon: fa-brands fa-instagram
+#   text: Instagram
+#   tooltip: Instagram
+#   link: https://instagram.com/$VALUE
 
-youtube:
-  icon: fa-brands fa-youtube
-  text: YouTube
-  tooltip: YouTube
-  link: https://youtube.com/$VALUE
+# youtube:
+#   icon: fa-brands fa-youtube
+#   text: YouTube
+#   tooltip: YouTube
+#   link: https://youtube.com/$VALUE
 
 linkedin:
   icon: fa-brands fa-linkedin
