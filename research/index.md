@@ -14,7 +14,7 @@ Our long-term goal is to understand cancer at a molecular level and use this kno
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="EDITED PAPER LINK PRAVESH" style="rich" %}
 
 {% include section.html %}
 
