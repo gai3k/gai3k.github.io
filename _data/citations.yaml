@@ -1,5 +1,1901 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/neuonc/noae139
+  title: Immune landscape of isocitrate dehydrogenase-stratified primary and recurrent
+    human gliomas
+  authors:
+  - Pravesh Gupta
+  - Minghao Dang
+  - Shivangi Oberai
+  - Simona Migliozzi
+  - Rakesh Trivedi
+  - Gayatri Kumar
+  - Mekenzie Peshoff
+  - Nancy Milam
+  - Aml Ahmed
+  - Krishna Bojja
+  - Tuan M Tran
+  - Joy Gumin
+  - Carlos Kamiya-Matsuoka
+  - Jason Huse
+  - Kathryn Cox
+  - Jianzhuo Li
+  - Huma Shehwana
+  - Sameer A Sheth
+  - Rodriguez Saxon
+  - Sun Baohua
+  - Brittany Parker Kerrigan
+  - Atul Maheshwari
+  - Edwin Roger Parra Cuentas
+  - Nicholas E Navin
+  - Amy B Heimberger
+  - Frederick F Lang
+  - Antonio Iavarone
+  - Karen Clise-Dwyer
+  - Linghua Wang
+  - Krishna P Bhat
+  publisher: Neuro-Oncology
+  date: '2024-08-10'
+  link: https://doi.org/g9nx46
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.c.7181344.v1
+  title: Data from Multi-omics Analysis Reveals Immune Features Associated with Immunotherapy
+    Benefit in Patients with Squamous Cell Lung Cancer from Phase III Lung-MAP S1400I
+    Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx47
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.c.7181344
+  title: Data from Multi-omics Analysis Reveals Immune Features Associated with Immunotherapy
+    Benefit in Patients with Squamous Cell Lung Cancer from Phase III Lung-MAP S1400I
+    Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx49
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-23-0251
+  title: Multi-omics Analysis Reveals Immune Features Associated with Immunotherapy
+    Benefit in Patients with Squamous Cell Lung Cancer from Phase III Lung-MAP S1400I
+    Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: Clinical Cancer Research
+  date: '2024-01-26'
+  link: https://doi.org/g73w8f
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603738.v1
+  title: Supplementary Figure 1 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5c
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603732.v1
+  title: Supplementary Figure 2 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5d
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603732
+  title: Supplementary Figure 2 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5g
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603729.v1
+  title: Supplementary Figure 3 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5h
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603729
+  title: Supplementary Figure 3 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5j
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603726
+  title: Supplementary Figure 4 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5m
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603726.v1
+  title: Supplementary Figure 4 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5n
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603723
+  title: Supplementary Figure 5 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5q
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603723.v1
+  title: Supplementary Figure 5 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5r
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603720
+  title: Supplementary Figure 6 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5t
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603720.v1
+  title: Supplementary Figure 6 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5v
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603717
+  title: Supplementary Figure 7 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx5x
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603717.v1
+  title: Supplementary Figure 7 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx52
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603714.v1
+  title: Supplementary Figure 8 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx54
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603714
+  title: Supplementary Figure 8 from Multi-omics Analysis Reveals Immune Features
+    Associated with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer
+    from Phase III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx55
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603711.v1
+  title: Supplementary Table 1 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx56
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603711
+  title: Supplementary Table 1 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx58
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603708
+  title: Supplementary Table 2 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx59
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603708.v1
+  title: Supplementary Table 2 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6c
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603705.v1
+  title: Supplementary Table 3 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6d
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603705
+  title: Supplementary Table 3 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6f
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603702.v1
+  title: Supplementary Table 4 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6h
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603702
+  title: Supplementary Table 4 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6j
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603699.v1
+  title: Supplementary Table 5 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6m
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603699
+  title: Supplementary Table 5 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6n
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603693.v1
+  title: Supplementary Table 6 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6p
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603693
+  title: Supplementary Table 6 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6r
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603690
+  title: Supplementary Table 7 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6s
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.25603690.v1
+  title: Supplementary Table 7 from Multi-omics Analysis Reveals Immune Features Associated
+    with Immunotherapy Benefit in Patients with Squamous Cell Lung Cancer from Phase
+    III Lung-MAP S1400I Trial
+  authors:
+  - Edwin Roger Parra
+  - Jiexin Zhang
+  - Dzifa Yawa Duose
+  - Edgar Gonzalez-Kozlova
+  - Mary W. Redman
+  - Hong Chen
+  - Ganiraju C. Manyam
+  - Gayatri Kumar
+  - Jianhua Zhang
+  - Xingzhi Song
+  - Rossana Lazcano
+  - Mario L. Marques-Piubelli
+  - Caddie Laberiano-Fernandez
+  - Frank Rojas
+  - Baili Zhang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jacob Geisberg
+  - Jennifer Altreuter
+  - Franziska Michor
+  - James Provencher
+  - Joyce Yu
+  - Ethan Cerami
+  - Radim Moravec
+  - Kasthuri Kannan
+  - Rajyalakshmi Luthra
+  - Gheath Alatrash
+  - Hsin-Hui Huang
+  - Hui Xie
+  - Manishkumar Patel
+  - Kai Nie
+  - Jocelyn Harris
+  - Kimberly Argueta
+  - James Lindsay
+  - Roshni Biswas
+  - Stephen Van Nostrand
+  - Seunghee Kim-Schulze
+  - Jhanelle E. Gray
+  - Roy S. Herbst
+  - Ignacio I. Wistuba
+  - Scott Gettinger
+  - Karen Kelly
+  - Lyudmila Bazhenova
+  - Sacha Gnjatic
+  - J. Jack Lee
+  - Jianjun Zhang
+  - Cara Haymaker
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-04-15'
+  link: https://doi.org/g9nx6v
+  orcid: 0000-0003-3686-5471
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
