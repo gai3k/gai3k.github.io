@@ -24,8 +24,7 @@
 
 - id: doi:10.1093/neuonc/noae139
   type: paper
-  description: sequential single-cell transcriptomics on 144 678 and spectral cytometry on over 2 million 
-  immune cells encompassing 48 human gliomas to decipher their immune landscape.
+  description: sequential single-cell transcriptomics on 144 678 and spectral cytometry on over 2 million immune cells encompassing 48 human gliomas to decipher their immune landscape.
   date: 2024-08-10
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/neuro-oncology/26/12/10.1093_neuonc_noae139/2/m_noae139_fig1.jpeg?Expires=1752181199&Signature=Hn8tHYuNCuLY13yI6DlofoArlQ2M0cwMGnM-rQLqI~fuFkGnnhFU3ptS5na0aTUUphNllMf2Fs-Hs9Oi93PyAYTfXxaFQjVULI4HPCMYlvNDmbAj9S01mFRHiFeID26BN5g6TI9rhabjA9C4wrQq7DqCieuX7DxCJOhCxRfNoEzffVXJp~vg8a2gihND~8FdHpq4LHj~gX3PI9QlSUXi-PUdaK4KHi4xr4~wy5bFmoffWYsLkyOYtEa3LTsw3TfML0X6QrY8an-jrxIFmWKdbHX5AC9LZjHzzngTBXX3VS5Tiwi954~OgfzwWLgB4FS4ZWY8cWfYkQH7tbY6-WDu8w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons:
