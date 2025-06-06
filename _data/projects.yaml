@@ -1,7 +1,7 @@
 - title: Immune subsets in Glioblastoma
   subtitle: Stratifying the immune cells by IDH type
   group: featured
-  image: images/Fig1_projects.png
+  image: images/Fig1_projects.jpeg
   link: https://github.com/
   description: provide a robust genomic framework for defining macrophage polarization beyond M1/M2 paradigm and reference signatures of glioma-specific tumor immune microenvironment (termed GlioTIME-36) for deconvoluting transcriptomic datasets
   repo: greenelab/lab-website-template
