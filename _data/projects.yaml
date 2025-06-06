@@ -1,47 +1,49 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Immune subsets in Glioblastoma
+  subtitle: Stratifying the immune cells by IDH type
   group: featured
-  image: images/photo.jpg
+  image: images/Fig1_projects.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: provide a robust genomic framework for defining macrophage polarization 
+  beyond M1/M2 paradigm and reference signatures of glioma-specific tumor immune microenvironment 
+  (termed GlioTIME-36) for deconvoluting transcriptomic datasets
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Liquid biopsy
+  subtitle: Review of applications in brain tumors.
   group: featured
-  image: images/photo.jpg
+  image: images/Fig2_projects.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Monitoring the biomarkers of brain tumor patients through biofluids such as CSF and blood.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title:  PMT in Glioblastoma
+  subtitle: Transcription factors upregulated in PMT through GSCs
+  image: images/Fig3_projects.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Identifying the role of transcription factors belonging to the STAT and AP-1 family found to be upregulated in the Mesenchymal state (progressed disease).
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title: Spatial analysis pipelines
   subtitle: a subtitle
-  image: images/photo.jpg
+  image: images/Fig4_projects.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Spatial profiling of HD transcriptomic data at single-cell resolution of mathced primary and recurrent glioblastoma patients
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
+- title:  Web resource
   subtitle: a subtitle
-  image: images/photo.jpg
+  image: images/Fig5_projects.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: To be edited
   repo: greenelab/lab-website-template
   tags:
     - software
