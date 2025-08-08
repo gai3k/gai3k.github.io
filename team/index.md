@@ -22,8 +22,6 @@ We want to expand our team of multi-disciplinary researchers dedicated to improv
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include section.html %}
-
-{% include list.html data="past_members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="past_members" component="portrait" %}
 
 {% include section.html %}
