@@ -16,7 +16,7 @@ Our group uses a multipronged approach to explain the genetic, molecular and imm
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -28,8 +28,8 @@ Our group uses a multipronged approach to explain the genetic, molecular and imm
 {%
   include feature.html
   image="images/overview.png"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
